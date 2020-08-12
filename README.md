@@ -8,6 +8,7 @@ Como dinamizar e consumir recursos com Javascript.
 <br />
 <a href="https://www.ev.org.br/"><strong>Escola Virtual</strong> - Fundação Bradesco</a>
 <br />
+<br>
 <p>Curso Curso Javascript completo. Do iniciante ao mestre, na plataforma Udemy</p>
 <p>Professor: <a href="https://www.linkedin.com/in/daniel-tapias-morales-87145621">Daniel Tapias Morales</a></p>
 <br />
